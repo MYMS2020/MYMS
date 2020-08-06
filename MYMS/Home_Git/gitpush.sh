@@ -2,3 +2,4 @@
 git add .
 git commit -m "Auto push to git"
 git push -u origin master
+read $x
