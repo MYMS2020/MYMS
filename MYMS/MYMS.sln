@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_BaoPingAn", "Python_BaoPingAn\Python_BaoPingAn.pyproj", "{7D81CBB2-138C-4C16-88A1-66F57FE5189C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D81CBB2-138C-4C16-88A1-66F57FE5189C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D81CBB2-138C-4C16-88A1-66F57FE5189C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8A5A1F4-FEBF-4DDA-B448-85718D0774D8}
+	EndGlobalSection
+EndGlobal
